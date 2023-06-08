@@ -4,7 +4,7 @@
 
 - 🔭A Computer Science and  Technology graduate Student of Keio University(🇯🇵 ).
 - 🌱 Currently learning golang and Kubernetes.
-- 🥑I will be graduating in April 2024 and am looking for a full time back-end(Java/Go)/full stack job.
+- 🥑I will be graduating in April 2024.
 - 📫 How to reach me: kokkiando@gamil.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ck76&show_icons=true&theme=dark&hide=contribs,prs&count_private=true&show_icons=true)
