@@ -4,6 +4,7 @@
 
 - 🔭A Computer Science and  Technology graduate Student of Keio University(🇯🇵 ).
 - 🌱 Currently learning golang and Kubernetes.
+- 🐶 Not only that, but currently focusing on expanding the **breadth** of technology
 - 🥑I will be graduating in April 2024.
 - 📫 How to reach me: kokkiando@gamil.com
 
