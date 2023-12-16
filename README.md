@@ -8,7 +8,6 @@
 - 🥑I will be graduating in April 2024.
 - 📫 How to reach me: kokkiando@gamil.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ck76&show_icons=true&theme=dark&hide=contribs,prs&count_private=true&show_icons=true)
 
 ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
